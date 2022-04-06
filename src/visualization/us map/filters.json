@@ -1,6 +1,0 @@
-{
-    "filters": [
-        "attributes['longitude'][0]",
-        "attributes['latitude'][0]"
-    ]
-}
